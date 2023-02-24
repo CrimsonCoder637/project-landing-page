@@ -17,3 +17,7 @@ a {
     font-size: 18px;
     text-decoration: none;
 }
+
+button {
+    background-color: #3882f8;
+}
