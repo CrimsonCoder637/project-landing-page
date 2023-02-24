@@ -20,12 +20,18 @@ a {
 
 button {
     background-color: #3882f8;
+    color: #e5e7eb;
+    font-weight: bold;
 }
 
 .header,
 .footer,
 #block-one {
     background-color: #1f2937;
+}
+
+.footer {
+    color: #f9faf8;
 }
 
 .header-logo {
