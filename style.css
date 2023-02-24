@@ -1,6 +1,9 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
 h1 {
     color: white;
-    font-family: 'Roboto', sans-serif;
     font-size: 48px;
     font-weight: 900;
 }
