@@ -23,6 +23,7 @@ button {
 }
 
 .header,
+.footer,
 #block-one {
     background-color: #1f2937;
 }
@@ -45,4 +46,9 @@ button {
 .quoter {
     color: #1f2937;
     font-weight: 700;
+}
+
+.call-to-action {
+    background-color: #3882f8;
+    color: #e5e7eb;
 }
