@@ -24,6 +24,10 @@ button {
     font-weight: bold;
 }
 
+.button-2 {
+    border: #e5e7eb;
+}
+
 .header,
 .footer,
 #block-one {
