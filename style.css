@@ -90,6 +90,13 @@ button {
     gap: 50px;
 }
 
+#block-two {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 #block-three {
     background-color: #e5e7eb;
 }
