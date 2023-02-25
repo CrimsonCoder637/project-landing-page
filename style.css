@@ -38,11 +38,12 @@ button {
 }
 
 .header {
-    
+    display: flex;
+    justify-content: space-between;
 }
 
 .body {
-    
+
 }
 
 .footer {
