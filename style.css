@@ -57,6 +57,13 @@ button {
     font-weight: 700;
 }
 
+#block-one,
+#block-two,
+#block-three,
+#block-four {
+    padding: 10%;
+}
+
 #block-one {
     color: #f9faf8;
     display: flex;
