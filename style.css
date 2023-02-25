@@ -26,6 +26,7 @@ button {
     color: #e5e7eb;
     font-weight: bold;
     border: none;
+    padding: 10px 30px;
 }
 
 .button-2 {
