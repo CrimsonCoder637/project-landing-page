@@ -59,6 +59,9 @@ button {
 
 #block-one {
     color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #block-three {
