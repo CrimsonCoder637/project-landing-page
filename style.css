@@ -29,6 +29,11 @@ a {
     text-decoration: none;
 }
 
+img {
+    flex: 1;
+    max-width: 550px;
+}
+
 button {
     background-color: #3882f8;
     color: #e5e7eb;
@@ -82,6 +87,7 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 50px;
 }
 
 #block-three {
