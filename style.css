@@ -21,6 +21,7 @@ button {
     background-color: #3882f8;
     color: #e5e7eb;
     font-weight: bold;
+    border: none;
 }
 
 .button-2 {
