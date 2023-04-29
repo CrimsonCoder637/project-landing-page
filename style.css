@@ -134,6 +134,7 @@ button {
     background-color: #3882f8;
     padding: 5%;
     display: flex;
+    flex: auto;
     justify-content: center;
     align-items: stretch;
     align-content: space-around;
