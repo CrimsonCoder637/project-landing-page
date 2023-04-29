@@ -103,8 +103,9 @@ button {
 
 #block-four {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-between;
+    align-items: stretch;
+    flex-wrap: wrap;
 }
 
 .services-list {
@@ -132,5 +133,4 @@ button {
 .call-to-action {
     background-color: #3882f8;
     color: #e5e7eb;
-    
 }
