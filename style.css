@@ -81,11 +81,11 @@ button {
 #block-three,
 #block-four {
     padding: 10%;
+    display: flex;
 }
 
 #block-one {
     color: #f9faf8;
-    display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
@@ -93,7 +93,6 @@ button {
 }
 
 #block-two {
-    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -104,7 +103,6 @@ button {
 }
 
 #block-four {
-    display: flex;
     justify-content: center;
     align-items: center;
     gap: 30px;
@@ -125,6 +123,10 @@ button {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+.shrink-contents {
+    max-width: 700px;
 }
 
 .services-list {
