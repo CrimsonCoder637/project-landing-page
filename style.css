@@ -110,6 +110,10 @@ button {
     gap: 30px;
 }
 
+.image-container {
+    position: relative;
+}
+
 .services-list {
     display: flex;
     justify-content: space-between;
