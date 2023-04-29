@@ -134,8 +134,8 @@ button {
     background-color: #3882f8;
     padding: 5%;
     display: flex;
-    justify-content: space-around;
-    align-items: center;
+    justify-content: center;
+    align-items: stretch;
     align-content: space-around;
     flex-wrap: wrap;
 }
