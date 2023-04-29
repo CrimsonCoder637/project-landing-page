@@ -101,6 +101,12 @@ button {
     background-color: #e5e7eb;
 }
 
+#block-four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .services-list {
     display: flex;
     justify-content: space-between;
@@ -126,4 +132,5 @@ button {
 .call-to-action {
     background-color: #3882f8;
     color: #e5e7eb;
+    
 }
