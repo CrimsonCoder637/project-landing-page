@@ -135,6 +135,8 @@ button {
     background-color: #3882f8;
     padding: 5%;
     border-radius: 8px;
+    max-width: 800px;
+
     display: flex;
     flex: auto;
     justify-content: space-around;
