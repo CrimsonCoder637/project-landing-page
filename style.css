@@ -106,6 +106,7 @@ button {
     justify-content: space-between;
     align-items: stretch;
     flex-wrap: wrap;
+    background-color: #3882f8;
 }
 
 .services-list {
@@ -133,4 +134,5 @@ button {
 .call-to-action {
     background-color: #3882f8;
     color: #e5e7eb;
+    padding: 5%;
 }
