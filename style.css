@@ -43,7 +43,7 @@ button {
 }
 
 .button-2 {
-    border: #e5e7eb;
+    border: 2px solid #e5e7eb;
 }
 
 .header,
@@ -135,7 +135,7 @@ button {
     padding: 5%;
     display: flex;
     flex: auto;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
     align-content: space-evenly;
     flex-wrap: wrap;
