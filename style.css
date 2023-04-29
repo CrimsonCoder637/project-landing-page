@@ -130,7 +130,9 @@ button {
 }
 
 .random-info {
-    padding: 50px 0px;
+    padding: 30px 0px;
+    font-weight: bolder;
+    font-size: 36px;
 }
 
 .shrink-contents {
