@@ -139,6 +139,7 @@ button {
 
 .service {
     text-align: center;
+    max-width: 150px;
 }
 
 .service-pic {
