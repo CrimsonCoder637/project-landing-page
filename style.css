@@ -40,11 +40,11 @@ button {
     font-weight: bold;
     border: none;
     padding: 10px 30px;
+    border-radius: 8px;
 }
 
 .button-2 {
     border: 2px solid #e5e7eb;
-    border-radius: 8px;
 }
 
 .header,
