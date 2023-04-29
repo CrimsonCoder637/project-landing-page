@@ -106,7 +106,6 @@ button {
     justify-content: space-between;
     align-items: stretch;
     flex-wrap: wrap;
-    background-color: #3882f8;
 }
 
 .services-list {
@@ -129,6 +128,11 @@ button {
 .quoter {
     color: #1f2937;
     font-weight: 700;
+}
+
+.block-four-contents {
+    background-color: #3882f8;
+    padding: 5%;
 }
 
 .call-to-action {
