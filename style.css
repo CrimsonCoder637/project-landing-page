@@ -142,13 +142,12 @@ button {
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: stretch;
-    /* gap: 50px; */
 }
 
 .service {
     text-align: center;
     max-width: 150px;
-    padding: 25px;
+    margin: 25px;
 }
 
 .service-pic {
