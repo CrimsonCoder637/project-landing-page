@@ -97,10 +97,12 @@ button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 10% 20%;
 }
 
 #block-three {
     background-color: #e5e7eb;
+    padding: 10% 20%;
 }
 
 #block-four {
@@ -111,6 +113,7 @@ button {
 }
 
 .image-sider {
+    /* set to 500px to remain smaller than image */
     max-width: 500px;
 }
 
