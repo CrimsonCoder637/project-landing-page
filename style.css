@@ -97,12 +97,10 @@ button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 10% 20%;
 }
 
 #block-three {
     background-color: #e5e7eb;
-    padding: 10% 20%;
 }
 
 #block-four {
@@ -134,6 +132,7 @@ button {
     justify-content: space-between;
     align-items: stretch;
     gap: 10px;
+    max-width: 700px;
 }
 
 .service {
@@ -144,6 +143,7 @@ button {
     font-size: 36px;
     font-style: italic;
     color: #1f2937;
+    max-width: 700px;
 }
 
 .quoter {
