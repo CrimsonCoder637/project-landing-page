@@ -116,6 +116,8 @@ button {
 
 .image-container .overlay {
     position: absolute;
+    top: 50%;
+    left: 50%;
 }
 
 .services-list {
