@@ -103,6 +103,9 @@ button {
 
 #block-four {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
 }
 
 .services-list {
@@ -130,8 +133,10 @@ button {
 .block-four-contents {
     background-color: #3882f8;
     padding: 5%;
-    justify-content: space-between;
+    display: flex;
+    justify-content: space-around;
     align-items: center;
+    align-content: space-around;
     flex-wrap: wrap;
 }
 
