@@ -114,6 +114,10 @@ button {
     position: relative;
 }
 
+.image-container .overlay {
+    position: absolute;
+}
+
 .services-list {
     display: flex;
     justify-content: space-between;
