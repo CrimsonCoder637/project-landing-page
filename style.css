@@ -103,9 +103,6 @@ button {
 
 #block-four {
     display: flex;
-    justify-content: space-between;
-    align-items: stretch;
-    flex-wrap: wrap;
 }
 
 .services-list {
