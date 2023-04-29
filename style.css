@@ -134,7 +134,7 @@ button {
     display: flex;
     justify-content: space-between;
     align-items: stretch;
-    gap: 10px;
+    gap: 50px;
 }
 
 .service {
