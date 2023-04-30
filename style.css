@@ -137,6 +137,8 @@ button {
 
 .shrink-contents {
     max-width: 700px;
+    display: flex;
+    flex-flow: column wrap;
 }
 
 .services-list {
@@ -167,6 +169,7 @@ button {
 .quoter {
     color: #1f2937;
     font-weight: 700;
+    align-self: flex-end;
 }
 
 .block-four-contents {
